@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1> Hi there 👋 I'm Mahesh M 👨‍💻 </h1>
 
-<!--
-**mahesh6398/mahesh6398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> Socials: </h3>
+<p align="center">
+  
+  <a href="" target="">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="" target="">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  🌐 View my portfolio: <a target="_blank" href=''>Click Here!</a> <br>
+  📫 How to reach me: <a href='mailto:maheshchetan639811@gmail.com'>maheshchetan639811@gmail.com</a>
+  <br>
+
+<p>
+
+
+
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh6398&layout=compact" alt="Mahesh M" /></p>
